@@ -1,0 +1,130 @@
+
+.main{
+ margin-top: 20px;
+ background-color: snow;
+
+}
+
+  .searc{
+
+    margin-bottom: 20px;
+    margin-top: 0px;
+    left: 500px;
+    height: 40px;
+    width: 500px;
+    border-radius: 30px;
+    
+     
+}
+.navbar-collapse{
+ margin-top: 20px;
+}
+.btn{
+    margin-bottom: 20px;
+    margin-left: 10px;
+    /* margin-bottom: 10px; */
+    left: 570px;
+    height: 40px;
+    width: 100px;
+    border-radius: 30px;
+
+}
+ .btn:hover {background-color: #3e8e41}
+
+ .nav-link{
+font-weight: bold;
+font-size: larger;
+color:lightblue;
+
+
+}
+.card{
+    display: inline-block;
+}
+.home{
+    display: inline-block;
+}
+
+.logo{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: larger;
+    font-weight: bolder;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    
+
+}
+.d-flex{
+    display: flex;
+    justify-content: center;
+}
+.logo{
+    margin-top: 0px;
+   display: flex;
+   
+}
+.btn2{
+    height: 40px;
+    width: 100px;
+    border-radius: 30px;
+    padding: 40px, 40px;
+    margin-top:30px;
+    margin-left: 40px;
+
+}
+.btn2:hover {background-color: red}
+
+ .rupe{
+    font-weight: bold;
+ }
+ .sub{
+    size: 20px;
+    font-size: 18px;
+ font-weight: bold;
+ }
+ .container{
+    margin-top:30px;
+ }
+ .second
+ {
+    border: solid black 1px;
+ }
+ .first{
+    border: solid black 1px;
+ }
+ .third{
+    border: soild black 2px;
+ }
+ .middle{
+    background-color: black;
+ }
+ .middle1{
+    margin-top: 1%;
+    color: bisque;
+    align-items: center;
+    justify-content: center;
+ }
+ .mad1{
+   border:solid whitesmoke;
+ }
+.mad2{
+   border: solid whitesmoke;
+   margin-left: -1%;
+   margin-top: 10px;
+}
+.mad2:hover{
+   background-color: whitesmoke;
+}
+.mad1:hover{
+   background-color: whitesmoke;
+}
+.footer{
+   text-align: center;
+   margin-top: 20px;
+   margin-bottom: 20px;
+   height: 60px;
+}
+.container2{
+   background-color: black;
+
+}
